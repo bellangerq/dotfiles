@@ -1,5 +1,6 @@
 begin
   require 'rubygems'
+  require 'rb-readline'
   require 'pry'
 rescue LoadError
 end
