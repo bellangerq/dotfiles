@@ -93,19 +93,7 @@ zsh git_setup.sh
 
 ### `aliases`
 
-Config file to create aliases. This is the basic syntax to create a new one:
-
-```sh
-alias aliasname="command executed"
-```
-
-### `gitignore`
-
-A global list of files that are ignored by git.
-
-### `gitconfig`
-
-All git config in one file such as colors, aliases, user info...
+Config file to create aliases.
 
 ### `gemrc`
 
@@ -115,6 +103,34 @@ A config file that displays information about the Ruby gems environment.
 
 A setup file for git. Login to your git account and setup your
 
-***
+### `gitconfig`
 
-Once this repo is forked, go back to [lewagon/setup](https://github.com/lewagon/setup)
+All git config in one file such as colors, aliases, user info...
+
+### `gitignore`
+
+A global list of files that are ignored by git.
+
+### `install.sh`
+
+Launch to install the dotfiles.
+
+### `irbrc`
+
+...
+
+### `rspec`
+
+...
+
+### `tm_properties`
+
+...
+
+### `vimrc`
+
+...
+
+### `zshrc`
+
+Config file for zsh.
